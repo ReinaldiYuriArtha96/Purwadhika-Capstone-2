@@ -43,7 +43,7 @@ Program ini adalah aplikasi berbasis **Command Line Interface (CLI)** untuk meng
 - Hapus Siswa: Konfirmasi sebelum penghapusan
 - Statistik Akademik: Rata-rata, tertinggi, terendah, distribusi grade
 - Sorting Data: Berdasarkan nama, NIS, atau nilai akhir
-- Login Role-Based: Admin dan Siswa
+- Login Role Based: Admin dan Siswa
 
 ---
 
@@ -100,6 +100,12 @@ python Code Capstone 2.py
 - **Siswa**: Gunakan NIS yang telah terdaftar dalam sistem  
 
 > Keluar dari program dengan memilih **Logout**, atau ketik **tidak** saat ditanya apakah ingin login ulang.
+
+---
+
+## Link Presentasi
+
+[Capstone 2 – Programming Fundamental (Figma Slides)](https://www.figma.com/slides/eRWj6ytTf8C8seHl5Vl9Yj/Capstone-2---Programming-Fundamental?node-id=1-888&t=Ok8SBqUdoUJpLpr3-1)
 
 ---
 
