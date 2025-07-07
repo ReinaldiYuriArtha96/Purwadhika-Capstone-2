@@ -20,7 +20,7 @@ Program ini adalah aplikasi berbasis **Command Line Interface (CLI)** untuk meng
 - Statistik distribusi grade untuk analisis kelas
 
 ### Pengambilan Keputusan
-- Data nilai real-time untuk rapor dan evaluasi
+- Data nilai real time untuk rapor dan evaluasi
 - Dasar pemberian penghargaan dan pembinaan
 - Mendukung analisis tingkat kelulusan
 
