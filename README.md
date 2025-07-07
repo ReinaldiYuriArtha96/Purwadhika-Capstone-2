@@ -30,7 +30,7 @@ Program ini adalah aplikasi berbasis **Command Line Interface (CLI)** untuk meng
 
 | Peran                 | Kebutuhan Utama                                          |
 |-----------------------|----------------------------------------------------------|
-| Guru/Wali Kelas/Admin | Laporan nilai siswa, kelulusan dan CRUD                  | 
+| Guru/Wali Kelas/Admin | Laporan nilai siswa, kelulusan, dan CRUD                  | 
 | Siswa                 | Melihat nilai pribadi dan status kelulusan               |
 
 ---
