@@ -91,7 +91,7 @@ Setiap data siswa memiliki atribut berikut:
 Jalankan program dengan perintah:
 
 ```bash
-python sistem_nilai.py
+python Code Capstone 2.py
 ```
 
 ## Login Sebagai
